@@ -208,7 +208,7 @@ width: 20vh;
    }
 
    .right-section .dots {
-       margin-left: -28px;
+      margin-left: 228px;
    }
 
    .right-section .action-btn {
@@ -231,4 +231,5 @@ width: 20vh;
        color: #FFFFFF;
        font-family: "Fredoka One";
    }
+ 
 }
