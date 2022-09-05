@@ -174,3 +174,61 @@ width: 20vh;
 }
 
 
+@media only screen and (max-width: 797px) {
+
+
+
+   .nav-items {
+       margin-left: 40px;
+   }
+
+   .intro-section {
+       flex-direction: column;
+       padding: 0 20px;
+   }
+
+   [alt="headphone"] {
+       height: 23rem;
+
+   }
+
+   .headphone-div {
+       width: 143px;
+       margin-top: 31px;
+       margin-right: 186px;
+   }
+
+
+   .headphone-div img:last-child {
+       width: 270px;
+       position: relative;
+       z-index: -1;
+       top: -20px;
+       left: 21px;
+   }
+
+   .right-section .dots {
+       margin-left: -28px;
+   }
+
+   .right-section .action-btn {
+       padding: 14px 24px;
+       cursor: pointer;
+       margin-left: 0px;
+   }
+
+   .headphone-div img:first-child {
+       position: absolute;
+       width: 120px;
+       top: 210px;
+       left: 0px;
+   }
+
+   .headphone-div .discount-content {
+       position: absolute;
+       top: 243px;
+       left: 30px;
+       color: #FFFFFF;
+       font-family: "Fredoka One";
+   }
+}
